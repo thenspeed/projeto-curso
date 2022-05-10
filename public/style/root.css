@@ -1,0 +1,18 @@
+*{
+margin:0;
+padding:0;
+
+}
+
+:root{
+
+   --primeira-cor:#e7e7e7;
+   --segunda-cor: #83e1ad;
+   --terceira-cor: #3ddc84;
+   --quarta-cor: #1a5c37;
+   --quinta-cor: #063d1e;
+   --branco: #fff;
+   --preto: #000;
+   --fonte-padrao: Arial , Verdana, sans-serif;
+  
+}
